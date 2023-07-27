@@ -29,3 +29,6 @@ Open the index.html file in your web browser.
 HTML5: For the structure of the game.
 CSS3: For styling and layout.
 JavaScript: For game logic and interactivity.
+
+🌐 Try it now:
+https://subhashish-18.github.io/SnakeGameJS/
